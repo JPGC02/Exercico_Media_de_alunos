@@ -17,10 +17,10 @@ INICIO
         q[i]
         soma = soma + q[i]
         media = soma / q.length
-        Arrays.sort (q)
-        int maior = q[5]
-        int menor = q[0]
-    FIM ENQUANTO  
+      FIM ENQUANTO  
+       Arrays.sort (q)
+       int maior = q[5]
+       int menor = q[0] 
     EXIBIR( 'A media de alunos das salas e:', media)
     EXIBIR('A sala com mais alunos tem', maior)
     EXIBIR('A sala com menos alunos tem', menor)
