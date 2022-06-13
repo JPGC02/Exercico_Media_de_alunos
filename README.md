@@ -21,4 +21,4 @@ INÍCIO
 
 ___________________________________________________________________________________________________
 
-![Fluxograma Vetores A e B](https://user-images.githubusercontent.com/103973489/173206403-d2177ecf-dff3-4109-b93f-0cc13a801564.png)
+![Média](https://user-images.githubusercontent.com/103973489/173264380-4f6743e5-fba1-4e66-a577-4df35c0ade51.png)
