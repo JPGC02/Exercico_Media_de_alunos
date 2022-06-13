@@ -5,6 +5,20 @@ ________________________________________________________________________________
 
 2) Ainda com base no exemplo, crie um algoritmo que receba a entrada da quantidade de alunos em cada uma das seis salas, calcule a média e apresente as salas com o maior número da média e as salas com menor número.
 
+
+INÍCIO
+
+      C <- 1
+      Soma <- 0
+      ENQUANTO C <= 6 FAÇA
+        LER(Q[C])
+          Soma <- Soma + Q[C]
+        C <- C + 1
+      FIM ENQUANTO
+      Média <- Soma/6
+        EXIBIR('A média é: ' Media)
+  FIM
+
 ___________________________________________________________________________________________________
 
 ![Fluxograma Vetores A e B](https://user-images.githubusercontent.com/103973489/173206403-d2177ecf-dff3-4109-b93f-0cc13a801564.png)
